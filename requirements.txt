@@ -1,6 +1,6 @@
-pandas==
-numpy==
-matplotlib==
-seaborn==
-scipy==
-streamlit==
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+streamlit
